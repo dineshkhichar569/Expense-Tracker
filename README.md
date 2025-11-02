@@ -18,7 +18,7 @@ This project demonstrates basic GUI design, table handling, CSV export, and inpu
 
 ## 🖥️ Preview
 
-![Expense Tracker UI](https://github.com/dineshkhichar569/Expense-Tracker/assets/your-image-id)
+![Expense Tracker UI](https://github.com/user-attachments/assets/930b2931-d856-4b34-b5f0-c2cff3600762)
 
 ---
 
